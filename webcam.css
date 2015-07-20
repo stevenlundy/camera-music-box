@@ -4,5 +4,7 @@ body {
 }
 
 #player {
-  width: 320px;
+  width: 640px;
+  -webkit-filter: grayscale(1) contrast(10);
+  filter: grayscale(1) contrast(10);
 }
